@@ -1,4 +1,4 @@
-package com.carlocodes.transactionservice;
+package com.carlocodes.transaction_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
